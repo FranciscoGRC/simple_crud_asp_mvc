@@ -6,6 +6,18 @@ Project to create, read, update and delete books records on a database.
 The project use a SQL Server that you should configure before run the project.
 
 -------------------------------------------------------------
+How to setup and run the project ?
+
+Step 1 <br/>
+Open the solution with Visual Studio
+
+Step 2 <br/>
+Configure the SQL Server
+
+Step 3 <br/>
+Run IIS Express
+
+-------------------------------------------------------------
 How to configure the SQL Server?
 
 Step 1 <br/>
